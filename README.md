@@ -11,7 +11,7 @@ An App for GyanaVikashJuniorCollege of Berhampur,Odisha.
 
 ## Dashboard
 
-<img src="./Screenshots/Screen_7.png" width=30%>                                                     
+<img src="./Screenshots/screen_7.png" width=30%>                                                     
 
 
 
